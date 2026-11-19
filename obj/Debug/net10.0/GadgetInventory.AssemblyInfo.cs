@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GadgetInventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a1f5410ac47f8b7333f49914402b4217711c5e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7c8e0f0b66e247838f6b8f0368dc3b888fc9f90")]
 [assembly: System.Reflection.AssemblyProductAttribute("GadgetInventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GadgetInventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
